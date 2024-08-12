@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2><center>NINU KORI</center></h2>
+        <IMG SRC="https://play-lh.googleusercontent.com/oQxl3qEYV-aNwDUPPotxf04VR3uUeeEPk3vBTuVnOM2_MGzr6Cg2PI0AOGdL4bB70FaXXA" width="100" height="100"> 
+            <P>Directed by	Shiva Nirvana</P>
+            <ul type="circle">
+                <li>Screenplay by	Kona Venkat</li>
+                <li>Story by	Shiva Nirvana</li>
+                <li>Produced by	D. V. V. Danayya</li>
+                <li>Starring	Nani</li>
+                <li>Nivetha Thomas</li>
+                <li>Aadhi Pinisetty</li>
+                <li>Cinematography	Karthik Gattamneni</li>
+                <li>Edited by	Prawin Pudi</li>
+                <li>Music by	Gopi Sunder</li>
+                <li>Production</li>
+                <li>companies</li>	
+                <li>DVV Entertainments</li>
+                <li>Kona Film Corporation</li>
+                <li>Release date</li>	
+                <li>7 July 2017[1]</li>
+                <li>Running time	137 minutes</li>
+                <li>Country	India</li>
+                <li>Language	Telugu</li>
+                <li>Budget	₹18 crore[2]</li>
+                <li>Box office	est. ₹52.3 crore[3]</li>
+                </ul>
+
+                <audio controls autoplay muted>
+                    <source src="Hey Badhulu Cheppavey - SenSongsMp3.Co.mp3">
+
+                </audio>
+                <audio controls autoplay muted>
+                    <source src="Unnatundi Gundey - SenSongsMp3.Co.mp3">
+                </audio>
+                <hr height="50%">
+</body>
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2><center>PADI PADI LECHE MANASU</center></h2>
+    <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPgO8U75rpx8mWKNTSKyslPW6kug28rnp15w&s" widht="200" height="200">
+     <ul>
+        <li>Directed by	Hanu Raghavapudi</li>
+        <li>Written by	Hanu Raghavapudi</li>
+        <li>Produced by	Prasad Chukkapalli</li>
+        <li>Sudhakar Cherukuri</li>
+        <li>Starring</li>	
+        <li>Sharwanand</li>
+         <li>Sai Pallavi</li>
+        <li>Cinematography	Jaya Krishna Gummadi</li>
+        <li>Edited by	A. Sreekar Prasad</li>
+         <li>Music by	Vishal Chandrasekhar</li>
+        <li>Production</li>
+        <li>company</li>	
+        <li>Sri Lakshmi Venkateswara Cinemas</li>
+        <li>Release date</li>	
+        <li>21 December 2018</li>
+        <li>Running time	156 minutes</li>
+        <li>Country	India</li>
+        <li>Language	Telugu</li>
+    </ul>
+
+    <audio controls autoplay loop>
+        <source src="[iSongs.info] 01 - Padi Padi Leche.mp3">
+    </audio>
+
+    <audio controls autoplay>
+        <source src="[iSongs.info] 02 - Kallolam (1).mp3">
+    </audio>
+
+    <audio controls autoplay>
+        <source src="[iSongs.info] 05 - O My Lovely Lalana.mp3">
+    </audio>
+</body>
+</html>

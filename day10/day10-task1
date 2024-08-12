@@ -1,0 +1,37 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2><center>DEAR COMRADE</center></h2>
+    <img src="https://images.odishatv.in/uploadimage/library/16_9/16_9_0/IMAGE_1627282020.jpg" width="100" height="100">
+    
+    <p>Directed by	Bharat Kamma</p>
+    <ul>
+        <li>Written by	Dialogues:</li>
+        <li>Screenplay by	BharthKamma</li>
+        <li>Story by	Bharat Kamma</li>
+        <li>Produced by	Naveen Yerneni</li>
+        <li>Yalamanchili Ravi Shankar</li>
+        <li>Starring	Vijay Deverakonda</li>
+        <li>Rashmika Mandanna</li>
+        <li>Cinematography	Sujith Sarang</li>
+        <li>Edited by	Sreejith Sarang</li>
+        <li>Music by	Justin Prabhakaran</li>
+        <h3>production</h3>
+        <h4>companies</h4>
+        <li>Mythri Movie Makers</li>
+        <li>Release date<li>
+        <li>26 july 2019</li>
+        <li>country india</li>
+        <li>Language Telugu</li>
+        </ul>
+          <audio controls autoplay muted>
+            <soures scr="i[isongs.info]02-kadalalle.mp3">
+            </audio>
+            <hr height="50%">
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <center>
+    <table>
+        <tr>
+            <td><a href="task1.html">
+                <img src="https://images.odishatv.in/uploadimage/library/16_9/16_9_0/IMAGE_1627282020.jpg" width="200" height="200"></a>
+            </td>
+            <td><a href="task2.html">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTREALxCftR2Jym_b-GRSwmYeiokLGs0ZPt5A&s" width="200" height="200"></a> 
+            </td>
+            </tr>
+            
+            
+                
+            
+            <td><a href="task4.html">
+                <img src="" width="200" height="200">
+            </td>
+            </tr>
+            
+                
+                    
+
+                
+        
+        
+    </table>
+    </center>
+</body>
+</html>
